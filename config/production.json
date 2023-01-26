@@ -1,6 +1,6 @@
 {
     "port": 5000,
     "jwtSecret": "alexander youtube mern",
-    "mongoUri": "mongodb+srv://alexander:secret20231@cluster0.am7vbkt.mongodb.net/?retryWrites=true&w=majority",
+    "mongoUri": "",
     "baseUrl": "http://localhost:5000"
 }
